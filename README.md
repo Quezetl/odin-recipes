@@ -1,0 +1,1 @@
+Current project so far is creating multiple web pages with hyperlinks, and correctly displaying images of different types on the pages.
